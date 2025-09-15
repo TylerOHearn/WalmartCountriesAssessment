@@ -2,7 +2,7 @@
 <h4 align="center"> Country Details Sorting App</h4>
 
 ## Description
-Built for a coding exercise, given by a potential client, this app is designed to ingest API JSON response data and display details about the countries listed.
+Built for a coding exercise, given by a potential client, this app is designed to ingest a JSON API response and display details about the countries listed.
 
 Written using [MVVM](https://medium.com/swlh/understanding-mvvm-architecture-in-android-aa66f7e1a70b) architecture with [ViewModels](https://developer.android.com/topic/libraries/architecture/viewmodel) and [LiveData](https://developer.android.com/topic/libraries/architecture/livedata), [Databinding](https://developer.android.com/topic/libraries/data-binding), [Retrofit](https://square.github.io/retrofit/) consuming a [RESTful API](https://medium.com/android-news/consuming-rest-api-using-retrofit-library-in-android-ed47aef01ecb). The App was written with best practices in mind.
 
